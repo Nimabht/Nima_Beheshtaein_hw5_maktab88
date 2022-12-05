@@ -1,0 +1,64 @@
+:root {
+    --gray: #f6f5f7
+}
+
+body {
+    font-family: system-ui;
+    letter-spacing: -0.5px;
+}
+
+.card {
+    width: 68rem;
+    height: 17.7rem;
+    margin: 1rem auto;
+    border: rgb(204, 204, 204) 1px solid;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: black 0px 0px 60px -20px;
+}
+
+.header {
+    text-align: center;
+    background-color: var(--gray);
+    border-bottom: rgb(204, 204, 204) 1px solid;
+    padding: 15px;
+    font-size: 1.3rem;
+}
+
+.desc {
+    text-align: center;
+    line-height: 1rem;
+}
+
+.title {
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.description {
+    font-weight: 500;
+}
+
+.card-btn {
+    background-color: #3d62e4;
+    border: none;
+    outline: 0;
+    color: white;
+    border-radius: 5px;
+    padding: 0.7rem 0.9rem;
+    margin: 4px 0 21px 0;
+    font-size: 1.2rem;
+}
+
+.card-btn:hover {
+    background-color: #2f4aaf;
+}
+
+.footer {
+    text-align: center;
+    background-color: var(--gray);
+    border-top: rgb(204, 204, 204) 1px solid;
+    padding: 15px;
+    font-size: 1.3rem;
+    color: #757978;
+}
