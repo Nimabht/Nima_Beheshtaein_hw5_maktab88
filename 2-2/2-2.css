@@ -1,0 +1,74 @@
+.main-div {
+    background-color: #433d39;
+    width: 730px;
+    height: 790px;
+    margin: auto;
+    padding: 9px;
+}
+
+.red-div {
+    background-color: red;
+    width: 460px;
+    height: 560px;
+}
+
+.milk-div {
+    background-color: #fbf7e6;
+    margin-bottom: 30px;
+}
+
+.float-right {
+    float: right;
+}
+
+.width-256 {
+    width: 256px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.blue-div {
+    background-color: #499ac4;
+    float: left;
+    margin-right: 15px;
+}
+
+.yellow-div {
+    background-color: yellow;
+}
+
+.clear {
+    margin-top: -15px;
+}
+
+.height-214 {
+    height: 214px
+}
+
+.width-360 {
+    width: 360px;
+}
+
+.small-div {
+    margin-bottom: 14px;
+}
+
+#one {
+    height: 220px;
+}
+
+#two {
+    height: 310px
+}
+
+#three {
+    width: 70px;
+    height: 100px;
+}
+
+#four {
+    width: 70px;
+    height: 100px;
+}
