@@ -52,6 +52,7 @@ body{
     font-size: 1.5rem;
     padding: 1.1rem 1.5rem;
     border-radius: 10px;
+    cursor: pointer;
 }
 table{
     padding: 5px;
